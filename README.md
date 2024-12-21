@@ -23,6 +23,16 @@ Welcome to my **VCard Portfolio**, a clean and modern digital business card that
 You can view the live demo of the VCard Portfolio here: Live Demo 🔥
 https://ashishkrji.github.io/Vcard_Portfolio/
 
+# Join Us
+
+Instagram - https://www.instagram.com/fluxon_webdev/
+
+Linkedin - https://www.linkedin.com/in/ashishkumarji/
+
+GitHub- https://github.com/Ashishkrji
+
+YouTube- https://www.youtube.com/@TechCreatorAshish
+
 # How to Run the Project 🏃‍♀️
 
 Clone the repository using:
